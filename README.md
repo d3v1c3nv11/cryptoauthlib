@@ -61,6 +61,9 @@ Examples
 
 Release notes
 -----------
+12/04/2019
+  - max_i2c_buses increased to 4 because OlinuXino A20 has 4 twi buses
+  
 03/04/2019
   - mbed TLS wrapper added
   - Minor bug fixes
